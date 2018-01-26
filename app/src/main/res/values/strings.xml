@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testYota</string>
+    <string name="year">Выберите год запуска</string>
+</resources>
